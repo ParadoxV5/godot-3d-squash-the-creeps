@@ -1,6 +1,6 @@
-[gd_scene load_steps=7 format=3 uid="uid://ca8th1qmp8p8j"]
+[gd_scene load_steps=7 format=3]
 
-[ext_resource type="Script" path="res://Player.gd" id="1"]
+[ext_resource type="Script" path="res://player.gd" id="1"]
 [ext_resource type="PackedScene" uid="uid://vdog61ai7cgh" path="res://art/player.glb" id="2"]
 
 [sub_resource type="SphereShape3D" id="1"]
